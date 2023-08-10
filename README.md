@@ -1,4 +1,5 @@
-# Demo_practice class Employee:
+# Demo_practice 
+class Employee:
     def __init__(self, emp_id, emp_name, emp_salary, emp_department):
         self.emp_id = emp_id
         self.emp_name = emp_name
